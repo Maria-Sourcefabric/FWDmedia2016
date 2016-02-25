@@ -4,17 +4,17 @@ $lang[$langid] = array(
 
 /* Header */
   "head-title" => "ES &lt;FWD:media&gt;",
-  "head-claim" => "Add live reporting to your site",
+  "head-claim" => "Agrega reportaje en vivo a tu sitio web",
 
 /* what is live blog */
-  "sourcefabricsinitiative" => "Sourcefabric's &lt;FWD:media&gt; initiative provides<br/>
-    free live blogging services and support to a<br/>
-    selected number of independent web projects in<br/>
-    journalism and activism.",
-  "rumediaorg" => "Are you a media organisation or NGO working to integrate technology 
-    into a journalism or reporting project and looking for a live storytelling tool? 
-    We can outfit you with the technology for free and help you get started.",
-  "deadlinetxt" => "The first round of applications is open. Apply by 31 March 2016.",
+  "sourcefabricsinitiative" => "La iniciativa &lt;FWD:media&gt; de Sourcefabric ofrece<br/>
+    servicios de live blogging y soporte gratuito a<br/>
+    un número selecto de proyectos independientes<br/>
+    de periodismo y activismo en línea.",
+  "rumediaorg" => "¿Perteneces a una organización u ONG trabajando para integrar la tecnología 
+  en proyectos periodísticos y buscas herramientas de narración en vivo? Podemos proveerte gratis 
+  la tecnología y ayuda necesaria para comenzar. Sigue este link para conocer más sobre Live Blog.",
+  "deadlinetxt" => "La primera ronda de aplicaciones está abierta. Aplica hasta el 31 de Marzo.",
   "biglb4fm" => "Live Blog for <br/> &lt;FWD:media&gt;",
   "biglb4fminfo" => "Live Blog helps journalists, reporters and<br>
     organisations tell their stories as they unfold.",
